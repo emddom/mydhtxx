@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../BlinkEsp32Thing"
+		},
+		{
+			"name": "201119-053112-arduino-wifiscan",
+			"path": "../201119-053112-arduino-wifiscan"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"name": "rntBlinkLed",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
